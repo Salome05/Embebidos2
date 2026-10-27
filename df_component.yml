@@ -1,0 +1,2 @@
+dependencies:
+espressif/esp-idf-lib: "^1.2"
